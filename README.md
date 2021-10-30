@@ -1,2 +1,2 @@
 # Python
-Study for PY
+小白学习Python之路
